@@ -1,6 +1,6 @@
 # Hi, I'm Aung Cho 👋
 
-### Application & Data Systems Analyst
+### Application & Data Systems Analyst | SQL Server | Enterprise Applications | Data Integration | Microsoft Fabric | Power BI
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
@@ -10,9 +10,9 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-I am an application and data professional with experience developing and supporting enterprise applications, SQL Server databases, ETL pipelines, system integrations, and business intelligence solutions.
+I am IT and data systems professional with 10+ years of experience developing and supporting enterprise applications, SQL Server databases, ETL pipelines, system integrations, reporting solutions and business operations.
 
-My background combines application development, data integration, production support, reporting, and cloud data technologies with a strong focus on reliable, maintainable, and data-driven systems.
+My background combines application development and support, database management, data integration, troubleshooting, and business intelligence. I'm also building hand-ons experience with modern cloud data platforms and data engineering technologies.
 
 ---
 <!--
