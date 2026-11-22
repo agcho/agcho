@@ -23,10 +23,33 @@ My background combines application development and support, database management,
 
 ## ⭐ Featured Work
 
-🚲 **[Toronto Bike Share Analytics Pipeline](https://github.com/agcho/Toronto-Bike-Share-Analytics-Pipeline-Project)**  
-End-to-end data engineering and analytics project that transforms Toronto Bike Share data into analytics-ready datasets and business insights.
+1. Microsoft Fabric – Wide World Importers
 
-Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
+- Developed an end-to-end medallion architecture data engineering project using Microsoft Fabric Data Factory and Lakehouse.
+- Implemented Bronze, Silver, and Gold layers to organize data ingestion, transformation, and processing.
+- Built analytical datasets and reporting solutions using Power BI.
+
+2. AdventureWorks – Azure Data Engineering
+
+- Developed a cloud-based data engineering pipeline using Azure Data Factory, Azure Data Lake Storage, and Azure Databricks.
+- Applied PySpark for data cleansing, transformation, and processing.
+- Explored medallion architecture and downstream analytics using Azure Synapse Analytics and Power BI.
+
+3. Microsoft Fabric – Earthquake Data Pipeline
+
+- Developed a medallion-style data pipeline using Microsoft Fabric and OneLake.
+- Implemented Lakehouse-based data organization and processing.
+- Explored modern data engineering workflows using Fabric Data Engineering capabilities.
+
+4. **[Toronto Bike Share Analytics Pipeline](https://github.com/agcho/Toronto-Bike-Share-Analytics-Pipeline-Project)**  
+
+- Developed an end-to-end batch ELT pipeline using Google Cloud Platform (GCP), BigQuery, dbt, and Kestra to transform Toronto Bike Share data into analytics-ready datasets.
+- Automated data ingestion and orchestration using Kestra, with Google Cloud Storage for raw data storage and BigQuery for data warehousing.
+- Implemented modular dbt transformations across staging, intermediate, and marts layers, including incremental loading, deduplication, and dimensional data modeling.
+- Provisioned cloud infrastructure using Terraform and implemented data quality testing, BigQuery partitioning, and clustering.
+- Developed Power BI dashboards to explore bike-sharing usage patterns, membership behaviour, and station activity.
+
+Technologies: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `SQL` • `Power BI`
 
 ---
 ## 🛠️ Technical Skills
