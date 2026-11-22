@@ -33,44 +33,44 @@ Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 
 ### 🗄️ Databases & Data Management
 
-• `Microsoft SQL Server, T-SQL, database administration`  
-• `Database maintenance, backup and recovery, performance roubleshooting`  
-• `Data validation, reconciliation, and data quality`
+- `Microsoft SQL Server, T-SQL, database administration`  
+- `Database maintenance, backup and recovery, performance roubleshooting`  
+- `Data validation, reconciliation, and data quality`
 
 ### 🛠️ Application & Production Support
 
-• `Enterprise application development, support and administration`  
-• `Applicaiton troubleshooting, incident managemnet and root cuase analysis`  
-• `SSIS, SQL-based integrations, IIS and Windows Server troubleshooting`
-• `Power Apps, Power Automate and Dataverse`
+- `Enterprise application development, support and administration`  
+- `Applicaiton troubleshooting, incident managemnet and root cuase analysis`  
+- `SSIS, SQL-based integrations, IIS and Windows Server troubleshooting`
+- `Power Apps, Power Automate and Dataverse`
 
 ### ☁️ Cloud & Data Engineering
 
-• `Microsoft Fabric, OneLake, Lakehouse and Fabric Data Factory`  
-• `Databricks, PySpark, and Delta Lake`
-• `Medallion architecture: Bronze, Silver and Gold`
+- `Microsoft Fabric, OneLake, Lakehouse and Fabric Data Factory`  
+- `Databricks, PySpark, and Delta Lake`
+- `Medallion architecture: Bronze, Silver and Gold`
 
 ### 📊 Business Intelligence & Reporting
 
- • `Power BI, DAX and data modeling`  
- • `Python, SQL and ETL workflows`
- • `Git and Azure DevOps`
+ - `Power BI, DAX and data modeling`  
+ - `Python, SQL and ETL workflows`
+ - `Git and Azure DevOps`
 
 ---
 ## 💼 Professional Experience
 
- - **Fugro Properties Pte Ltd** – Enterprise application support, SQL Server database administration, application integration, Power Automate and Power BI reporting.
- - **Compassites Technology Solutions Pte Ltd. (Radiant Digital)** – Application enhancement, maintenance and technical support.
- - **Mirandah Law LLP / Patrick Mirandah Co. (Asia) Pte Ltd** – Application development and support, SQL Server administration and application database management.
- - **KEYfields Pte Ltd** – Logistics, point-of-sale and warehouse application support, system deployments and user training.
+ - **Fugro Properties Pte Ltd** — Enterprise application support, SQL Server database administration, application integration, Power Automate and Power BI reporting.
+ - **Compassites Technology Solutions Pte Ltd. (Radiant Digital)** — Application enhancement, maintenance and technical support.
+ - **Mirandah Law LLP / Patrick Mirandah Co. (Asia) Pte Ltd** — Application development and support, SQL Server administration and application database management.
+ - **KEYfields Pte Ltd** — Logistics, point-of-sale and warehouse application support, system deployments and user training.
 
 ---
 ## 🎓 Education
 
- - **Master of Information Technology** – University of Southern Queensland
- - **Bachelor of Science in Computing** – University of Portsmouth
- - **Graduate Certificate, Business Analytics** – Conestoga College
- - **Graduate Certificate, Big Data Solution Architecture** – Conestoga College
+ - **Master of Information Technology** — University of Southern Queensland
+ - **Bachelor of Science in Computing** — University of Portsmouth
+ - **Graduate Certificate, Business Analytics** — Conestoga College
+ - **Graduate Certificate, Big Data Solution Architecture** — Conestoga College
 
 ---
 ## 📜 Certifications
