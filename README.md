@@ -29,49 +29,56 @@ End-to-end data engineering and analytics project that transforms Toronto Bike S
 Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 
 ---
-
 ## 🛠️ Technical Skills
 
-### 🗄️ Database & Data
+### 🗄️ Databases & Data Management
 
-`SQL Server` • `T-SQL` • `Stored Procedures` • `Query Optimization`  
-`OLTP` • `OLAP` • `Data Warehousing` • `Dimensional Modeling`  
-`SSIS` • `ETL / ELT` • `Data Integration` • `Data Validation` • `Azure SQL`
-
-### 📊 Business Intelligence & Reporting
-
-`Power BI` • `DAX` • `Power Query` • `SSRS` • `Advanced Excel`  
-`Data Modeling` • `KPI Dashboards`
-
-### ☁️ Cloud & Data Engineering
-
-`Microsoft Fabric` • `Microsoft Azure` • `Databricks` • `Python` • `PySpark`  
-`Lakehouse Architecture` • `Data Pipelines`
-
-### 💻 Development & Integration
-
-`C#` • `.NET / .NET Core` • `ASP.NET` • `ASP.NET MVC` • `ASP.NET Web Forms`  
-`REST APIs` • `Web Services` • `JSON` • `XML` • `CSV`
+• `Microsoft SQL Server, T-SQL, database administration`  
+• `Database maintenance, backup and recovery, performance roubleshooting`  
+• `Data validation, reconciliation, and data quality`
 
 ### 🛠️ Application & Production Support
 
-`Application Support` • `Production Support` • `Incident Analysis`  
-`Root Cause Analysis` • `Application Troubleshooting` • `Data Issue Investigation`  
-`Testing & Validation` • `Change Management` • `Technical Documentation` • `ITIL Practices`
+• `Enterprise application development, support and administration`  
+• `Applicaiton troubleshooting, incident managemnet and root cuase analysis`  
+• `SSIS, SQL-based integrations, IIS and Windows Server troubleshooting`
+• `Power Apps, Power Automate and Dataverse`
 
-### 🔧 Tools
+### ☁️ Cloud & Data Engineering
 
-`Git` • `GitHub` • `Visual Studio` • `Visual Studio Code`  
-`SQL Server Management Studio` • `Postman` • `IIS` • `Windows Server` • `Power Automate`
+• `Microsoft Fabric, OneLake, Lakehouse and Fabric Data Factory`  
+• `Databricks, PySpark, and Delta Lake`
+•  'Medallion architecture: Bronze, Silver and Gold
+
+### 📊 Business Intelligence & Reporting
+
+ • `Power BI, DAX and data modeling`  
+ • `Python, SQL and ETL workflows`
+ • `Git and Azure DevOps`
 
 ---
+## 💼 Professional Experience
 
-## 🏆 Certifications
+ • `Fugro Properties Pte Ltd: Enterprise application support, SQL Server database administration, integrations, Power BI reporting and business systems.`
+ • `Mirandah: SQL Server database administration, application database support, maintenance, backup and recovery.`
+ • `KEYfields: Logistics, point-of-sale and warehouse application support, deployments and user training.`
 
-- **Microsoft Certified: SQL AI Developer Associate — DP-800**
-- **Microsoft Certified: Fabric Data Engineer Associate — DP-700**
-- **Microsoft Certified: Fabric Analytics Engineer Associate — DP-600**
-- **Microsoft Certified: Power BI Data Analyst Associate — PL-300**
-- **Databricks Certified Data Engineer Associate**
-- **ITIL 4 Foundation**
-- **Microsoft Certified Solutions Developer — Web Applications**
+---
+## 🎓 Education
+
+ • `Master of Information Technology`
+ • `Bachelor of Science in Computing`
+ • `Graduate Certificate, Business Analytics`
+ • `Graduate Certificate, Big Data Solution Architecture`
+
+---
+## 📜 Certifications
+
+ • **Microsoft Certified: SQL AI Developer Associate — DP-800**
+ • **Microsoft Certified: Power BI Data Analyst Associate — PL-300** 
+ • **Microsoft Certified: Fabric Data Engineer Associate — DP-700**
+ • **Microsoft Certified: Fabric Analytics Engineer Associate — DP-600**
+ • **Microsoft Certified: Azure Databricks Data Engineer Associate — DP-750**
+ • **Databricks Certified Data Engineer Associate**
+ • **ITIL 4 Foundation**
+ • **Microsoft Certified Solutions Developer — Web Applications**
