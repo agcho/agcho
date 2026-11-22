@@ -48,7 +48,7 @@ Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 
 • `Microsoft Fabric, OneLake, Lakehouse and Fabric Data Factory`  
 • `Databricks, PySpark, and Delta Lake`
-• 'Medallion architecture: Bronze, Silver and Gold`
+• `Medallion architecture: Bronze, Silver and Gold`
 
 ### 📊 Business Intelligence & Reporting
 
@@ -67,19 +67,19 @@ Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 ---
 ## 🎓 Education
 
- - `Master of Information Technology`
- - `Bachelor of Science in Computing`
- - `Graduate Certificate, Business Analytics`
- - `Graduate Certificate, Big Data Solution Architecture`
+ - **Master of Information Technology** – University of Southern Queensland
+ - **Bachelor of Science in Computing** – University of Portsmouth
+ - **Graduate Certificate, Business Analytics** – Conestoga College
+ - **Graduate Certificate, Big Data Solution Architecture** – Conestoga College
 
 ---
 ## 📜 Certifications
 
- - **Microsoft Certified: SQL AI Developer Associate — DP-800**
- - **Microsoft Certified: Power BI Data Analyst Associate — PL-300**
- - **Microsoft Certified: Fabric Data Engineer Associate — DP-700**
- - **Microsoft Certified: Fabric Analytics Engineer Associate — DP-600**
- - **Microsoft Certified: Azure Databricks Data Engineer Associate — DP-750**
+ - **Microsoft Certified: SQL AI Developer Associate** — DP-800
+ - **Microsoft Certified: Power BI Data Analyst Associate** — PL-300
+ - **Microsoft Certified: Fabric Data Engineer Associate** — DP-700
+ - **Microsoft Certified: Fabric Analytics Engineer Associate** — DP-600
+ - **Microsoft Certified: Azure Databricks Data Engineer Associate** — DP-750
  - **Databricks Certified Data Engineer Associate**
  - **ITIL 4 Foundation**
  - **Microsoft Certified Solutions Developer — Web Applications**
