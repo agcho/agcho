@@ -48,7 +48,7 @@ Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 
 • `Microsoft Fabric, OneLake, Lakehouse and Fabric Data Factory`  
 • `Databricks, PySpark, and Delta Lake`
-•  'Medallion architecture: Bronze, Silver and Gold
+• 'Medallion architecture: Bronze, Silver and Gold`
 
 ### 📊 Business Intelligence & Reporting
 
@@ -59,9 +59,10 @@ Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 ---
 ## 💼 Professional Experience
 
- • `Fugro Properties Pte Ltd: Enterprise application support, SQL Server database administration, integrations, Power BI reporting and business systems.`
- • `Mirandah: SQL Server database administration, application database support, maintenance, backup and recovery.`
- • `KEYfields: Logistics, point-of-sale and warehouse application support, deployments and user training.`
+ • `Fugro Properties Pte Ltd – Enterprise application support, SQL Server database administration, system integration, Power Automate and Power BI reporting.`
+ • `Compassites Technology Solutions Pte Ltd. (Radiant Digital) – Application enhancement, maintenance and technical support.`
+ • `Mirandah Law LLP / Patrick Mirandah Co. (Asia) Pte Ltd – Application development and support, SQL Server administration and application database management.`
+ • `KEYfields Pte Ltd – Logistics, point-of-sale and warehouse application support, system deployments and user training.`
 
 ---
 ## 🎓 Education
@@ -75,7 +76,7 @@ Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 ## 📜 Certifications
 
  • **Microsoft Certified: SQL AI Developer Associate — DP-800**
- • **Microsoft Certified: Power BI Data Analyst Associate — PL-300** 
+ • **Microsoft Certified: Power BI Data Analyst Associate — PL-300**
  • **Microsoft Certified: Fabric Data Engineer Associate — DP-700**
  • **Microsoft Certified: Fabric Analytics Engineer Associate — DP-600**
  • **Microsoft Certified: Azure Databricks Data Engineer Associate — DP-750**
