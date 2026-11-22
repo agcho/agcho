@@ -52,7 +52,7 @@ Tech: `GCP` • `BigQuery` • `dbt` • `Kestra` • `Terraform` • `Power BI`
 
 ### 📊 Business Intelligence & Reporting
 
-- `Power BI Desktop, Power BI Service, DAX and data modeling`
+- `Power BI, Power Query, DAX and data modeling`
 - `Python, SQL and ETL workflows`
 - `Git and Azure DevOps`
 
